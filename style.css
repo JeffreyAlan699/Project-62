@@ -1,0 +1,112 @@
+body {
+    background:linear-gradient(135deg, orange 60%, cyan);
+    text-align: center;
+}
+
+#img1{
+    margin-bottom: 25px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: #ff4b2b;
+    height:300px;
+    width:300px;
+    padding:10px;
+}
+.line {
+    height: 10px;
+    background-color: black;
+    width: 80px;
+    margin: 50px auto;
+}
+#img2{
+    margin-bottom: 25px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: #ff4b2b;
+    height:300px;
+    width:300px;
+    padding:10px;
+}
+#img3{
+    margin-bottom: 25px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: #ff4b2b;
+    height:300px;
+    width:300px;
+    padding:10px;
+}
+#img4{
+    margin-bottom: 25px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: #ff4b2b;
+    height:300px;
+    width:300px;
+    padding:10px;
+}
+#img5{
+    margin-bottom: 25px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: #ff4b2b;
+    height:300px;
+    width:300px;
+    padding:10px;
+}
+#img6{
+    margin-bottom: 25px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: #ff4b2b;
+    height:300px;
+    width:300px;
+    padding:10px;
+}
+#img7{
+    margin-bottom: 25px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: #ff4b2b;
+    height:300px;
+    width:300px;
+    padding:10px;
+}#img8{
+    margin-bottom: 25px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: #ff4b2b;
+    height:300px;
+    width:300px;
+    padding:10px;
+}#img9{
+    margin-bottom: 25px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: #ff4b2b;
+    height:300px;
+    width:300px;
+    padding:10px;
+}#img10{
+    margin-bottom: 25px;
+    margin-top: 50px;
+    border-style: solid;
+    border-color: #ff4b2b;
+    height:300px;
+    width:300px;
+    padding:10px;
+}
+.container
+{
+    text-align: center;
+}
+#myCarousel{
+    background-color: chocolate;
+}
+#myCarousel img {
+    margin-top: 25px;
+}
+#section2 img {
+    height: 300px;
+    width: 300px;
+}
